@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'TesT For GIIIIIIIIIIIIIITT!!!!'
+      msg: 'TesT For GGIIIIIIIIIIIIIITT!!!!'
     }
   }
 }
